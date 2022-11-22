@@ -1,0 +1,40 @@
+BOM for EuroRack Attenuverter 9-22-22
+
+Part     Value         Device                   Package            Description                                                                                                  
+AV1      100K          ALPSRK11K114             ALPSCENTERTAP      ALPS Pot with center tap ground                                                                                                                               
+BIAS+    THONKICONNNEW THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                                                      
+BIAS-    THONKICONNNEW THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                                                      
+BIASPOT+ B100K         9MM_SNAP-IN_POT_         9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                             
+BIASPOT- B100K         9MM_SNAP-IN_POT_         9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                             
+C1       .1uF          C-US025-030X050          C025-030X050       CAPACITOR, American symbol                                                                                                                    
+C2       .1uF          C-US025-030X050          C025-030X050       CAPACITOR, American symbol                                                                                                                        
+                                                                                            0                                    
+EUROPWR                EURO_POWER_HEADERREGULAR EURO_POWER_HEADER  Power Header  (100mil 2x5)                                                                                                                                                 
+IC1      TL082D        TL082D                   SO08               OP AMP                                                                                    
+IC3      TL084D        TL084D                   SO14               OP AMP                                                                                                                                                        
+IN+      THONKICONNNEW THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                                                      
+IN-      THONKICONNNEW THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                                                      
+OUT1     THONKICONNNEW THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                                                      
+OUT2     THONKICONNNEW THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                                                      
+                                                                                                                                         
+R1       10K           R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R2       1K            R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R3       10K           R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R4       1K            R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R5       10K           R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R6       1K            R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R7       1K            R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R8       10K           R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R9       10K           R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R10      10K           R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R11      33K           R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R12      100K          R-US_0204/7              0204/7             RESISTOR, American symbol                                                                                                                                     
+R13      1K            R-US_0204/7              0204/7             RESISTOR, American symbol   
+
+
+Wireing and jacks for Link cable
+ALL ELECTRONICS Con-242 (2 of them) 
+
+Hardware for CTPOT standoff
+4x40 nuts    (4 of them)
+4x40 pan phillips 3/4"                                                                                                                             
