@@ -1,0 +1,28 @@
+ATTENUVERTER EXPANDER BOM
+
+Part    Value           Device                   Package            Description                                       POPULARITY
+BIAS1   100K            9MM_SNAP-IN_POT_         9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style           
+BIAS2   100K            9MM_SNAP-IN_POT_         9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style           
+     
+EUROPWR                 EURO_POWER_HEADERREGULAR EURO_POWER_HEADER  Power Header                                                
+        
+IC1     TL071D          TL071D                   SO08               OP AMP                                            0         
+IC2     TL071D          TL071D                   SO08               OP AMP                                            0         
+IN1     THONKICONNNEW   THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+IN2     THONKICONNNEW   THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+LEVEL1  100K            9MM_SNAP-IN_POT_         9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style           
+LEVEL2  100K            9MM_SNAP-IN_POT_         9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style           
+OUT1    THONKICONNNEW   THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+OUT2    THONKICONNNEW   THONKICONNNEW            WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+R1      100K            R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R2      100K            R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R4      1K              R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R5      100K            R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R6      10K             R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R7      10K             R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R8      10K             R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R9      10K             R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R10     1K              R-US_0204/2V             0204V              RESISTOR, American symbol                                   
+R15     100K            R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R19     100K            R-US_0204/7              0204/7             RESISTOR, American symbol                                   
+R35     100K            R-US_0204/2V             0204V              RESISTOR, American symbol                                   
